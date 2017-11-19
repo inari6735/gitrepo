@@ -1,0 +1,53 @@
+body{
+	background-image: url(img/tlo1.jpg);
+	background-size: 100%;
+	background-attachment: fixed;
+}
+.tstyle1{
+	text-align: right;
+	color: white;
+	font-size: 20px;
+	padding-top: 8px;
+}
+.tstyle2{
+	color: white;
+	font-size: 40px;
+	padding-top: 20px;
+}
+.tstyle3{
+	color: #d2d2d2;
+	font-size: 35px;
+	line-height: 0px;
+}
+.container{
+	width: 1140px;
+	margin: auto;
+	padding: 0 15px;
+}
+.tstylea1{
+	color: #d2d2d2;
+	font-size:18px;
+	margin-right: 10px;
+}
+.tstylea2{
+	color: #d2d2d2;
+	font-size:18px;
+	margin-right: 10px;
+}
+.tstylea3{
+	color: #d2d2d2;
+	font-size:18px;
+}
+.right{
+	text-align: right;
+	padding-top: 20px;
+}
+.portfolio{
+	color: #d2d2d2;
+	font-size: 25px;
+	padding-left: 155px;
+	padding-top: 10px;
+}
+.pad1{
+	padding-top: 70px;
+}
