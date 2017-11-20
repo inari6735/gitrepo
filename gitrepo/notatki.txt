@@ -1,0 +1,30 @@
+po <!DOCTYPE html> daje sie specyfikacje xd
+<html> znacznik otwierający
+</html> zamknięcie znacznika
+<html lang="pl">
+
+<!-- (początek komentarza wielowierszowego)
+--> (koniec komentarza)
+
+<head> (nagłówek strony - nie jest wyświetlana, nie jest miejscem na treść strony)
+</head>
+<title>Podstawy HTML</title>  (lepsze pozycjonowanie)
+<meta charset="utf-8" /> (ascii)
+
+<body> (treść strony)
+</body>  
+
+file://..... (ja przeglądam plik lokalny, który jest zapisany u mnie na dysku)
+ tylko w <body> :
+<h1>Nagłówek 1 <h/1>
+znaczników h jest 6
+<p> </p> (paragraf)
+
+PRECYZJA SELEKTORÓW CSS:
+1) TAG 0, 0, 0, 1 img= 0, 0, 0, 1
+2) KLASY 0, 0, 1, 0 .header img= 0, 0, 1, 1
+3) IDENTYFIKATORY (NAJWIĘKSZA PRECYZJA) 0, 1, 0, 0 #header= 0, 1, 0, 0
+    HIERARCHIA CSS:
+    1) STYLE INLINE W ATRYBUTACH
+    2) STYLE INLINE W PLIKU
+    3) STYLE ZEWNĘTRZNE

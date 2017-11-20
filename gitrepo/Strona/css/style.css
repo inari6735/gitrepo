@@ -1,0 +1,75 @@
+/*
+    font-family: Playfair Display, serif;
+    font-size: 12pt;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 1.3em:
+*/
+body{
+    font: normal 600 12pt/1.3em Playfair Display, serif;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 100px;
+    margin-bottom: 100px; 
+    background: ;
+}
+h1{
+    font-size: 400%;  
+}
+h2{
+    font-size: 250%em;
+}
+.czerwony{
+    color: #e436e9;
+}
+p{
+    font-size: 14pt;
+    line-height: 150%;
+}
+.pogrubione{
+    font-weight: bold;
+}
+.pochylone{
+    font-style: italic;
+}
+.wyroznione{</section>
+    color: #9b1f42;
+    font-weight: bold;
+    font-style: italic;
+}
+p.srodek{
+    clear: both;
+    text-align: center;
+}
+img{
+    float: right;
+}
+.header {
+    padding: 10px;
+    border: 10px solid black;
+    border-bottom: 10px dotted blue;
+    border-top: 10px dotted blue;
+    border-right: 10px dotted blue;
+    border-left: 10px dotted blue;  
+    margin: 30px;
+}
+.header img {
+    display: block;
+    float: none;
+}
+.tekst {
+    padding: 20px;
+}
+.link {
+    padding: 20px;
+}
+.tekst1 {
+    text-align: justify;
+}
+#header {
+    padding: 10    px;
+    margin: 10px;
+}
+#obramowanie {
+    border: 10px solid yellow;
+}
