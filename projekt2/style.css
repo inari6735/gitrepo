@@ -1,5 +1,5 @@
 body{
-	background-image: url('img/8.jpg');
+	background-image: url('img/22.jpg');
 	background-size: 100%;
 	background-attachment: fixed;
 	margin-top: 30px;
@@ -11,12 +11,15 @@ body{
 	text-decoration: none;
 	margin-left: 950px;
 	line-height: 50px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-top: auto;
 }
 .tstyle2{
 	color: white;
 	font-size: 60px;
 	padding-top: 20px;
-	cursor:pointer;
+	cursor: pointer;
 	padding-left: 15px;
 	font-family: 'Josefin Sans', sans-serif;
 }
@@ -24,7 +27,7 @@ body{
 	color: #d2d2d2;
 	font-size: 35px;
 	line-height: 0px;
-	cursor:pointer;
+	cursor: pointer;
 	padding-bottom: 15px;
 	padding-left: 15px;
 	font-family: 'Josefin Sans', sans-serif;
@@ -36,7 +39,7 @@ body{
 	padding-left: 50px;
 	padding-right: 50px;
 	padding-bottom: 20px;
-	background-image: url('img/tloo2.jpg');
+	background-color: rgba(6,6,6,0.6);
 	border-radius: 20px;
 
 }
@@ -101,7 +104,7 @@ ul li ul li {
   background: #555; 
   display: block; 
 }
-ul li ul li a {display:block !important;} 
+ul li ul li a {display:block important;} 
 ul li ul li:hover {background: #666;}
 .bot{
 	border-bottom-left-radius: 10px;
@@ -112,7 +115,7 @@ ul li ul li:hover {background: #666;}
 	font-family: 'Josefin Sans', sans-serif;
 	text-align: center;
 	font-size: 60px;
-	padding-top: 300px;
+	padding-top: 100px;
 }
 
 a {
@@ -145,4 +148,67 @@ a:hover{
 	padding-top: 30px;
 	padding-bottom: 5px;
 	color: orange;
+}
+.mpr{
+	color: white;
+	text-align: center;
+	font-size: 60px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+.mgr{
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.lewa{
+	padding-left: 28.5px;
+	padding-right: 28.5px;
+}
+
+.gora{
+	padding-top: 28.5px;
+}
+.podpis{
+	font-size: 45px;
+	color: white;
+	text-align: center;
+}
+.hobby{
+	color: white;
+	font-size: 40px;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-top: 40px;
+}
+.wypunktowanie{
+	color: #d2d2d2;
+	font-size: 20px;
+	line-height: 35px;
+}
+.justify{
+	text-align: justify;
+}
+.sr{
+	text-align: center;
+	margin-top: 80px;
+	margin-bottom: 80px;
+	margin-right: 350px;
+	margin-left: 350px;
+	padding: 20px;
+	border-style: solid;
+	border-color: white;
+	border-radius: 10px;
+	background-color: rgba(6,6,6,0.7);
+}
+.dane{
+	color: white;
+	font-size: 35px;
+}
+.dane2{
+	color: #d2d2d2;
+	line-height: 35px;
+	font-size: 25px;
+}
+.kursor{
+	cursor: pointer;
 }
