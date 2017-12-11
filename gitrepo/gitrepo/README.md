@@ -1,2 +1,0 @@
-# gitrepo
-Cośtam

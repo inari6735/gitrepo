@@ -1,1 +1,0 @@
-Współczesne procesory są 64 bitowe. 1 ghz=1 miliard obliczeń
