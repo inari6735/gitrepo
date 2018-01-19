@@ -19,3 +19,22 @@ file://..... (ja przeglądam plik lokalny, który jest zapisany u mnie na dysku)
 <h1>Nagłówek 1 <h/1>
 znaczników h jest 6
 <p> </p> (paragraf)
+
+()=>{;}
+to samo co:
+function(){;}
+
+%("selektor").akcja(function(){
+    działania;
+});
+
+Dołączanie jQuery do strony
+
+cdn(Content Delivery Network)
+
+Metody jQuery:
+.hide()
+.show()
+.toggle() - łączy metody hide i show
+.fadeIn()
+.fadeOut()
