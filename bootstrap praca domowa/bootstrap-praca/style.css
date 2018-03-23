@@ -1,0 +1,29 @@
+﻿
+  body {
+    background-image: url('kosmos.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+
+  }
+
+.gallery {
+  margin-top: 10px;
+  margin-left: 10px;
+  display: flex;
+  flex-direction: row;
+  flex-flow: wrap;
+  justify-content: center;
+  flex-grow: 3;
+
+}
+
+.gallery-item {
+  margin: 15px;
+
+}
+
+.gallery-item .thumbnail {
+  border: 5px solid black;
+}
